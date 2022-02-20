@@ -1,0 +1,11 @@
+---
+layout: post
+title: Linux kernel Use-After-Free (CVE-2021-23134) exploitation.
+use_math: true
+---
+
+\section{The bug}
+The bug is a Use After Free (UAF) in the Near-Field-Communication (NFC) subsystem of the Linux kernel (before v5.12.4).\\
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
