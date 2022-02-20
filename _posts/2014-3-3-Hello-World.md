@@ -4,7 +4,11 @@ title: You're up and running!
 use_math: true
 ---
 
-Next $1 + 1 = 4$ damn.
+Next 
+$$
+1 + 1 = 4
+$$ 
+damn.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
