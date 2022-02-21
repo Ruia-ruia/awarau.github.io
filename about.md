@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+3rd year CS student at the University of Sydney
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in computability, complexity, and exploitability.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[@Awarau1](https://twitter.com/Awarau1)
